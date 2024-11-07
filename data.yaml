@@ -1,0 +1,7 @@
+train: C:/Users/Admin/Desktop/ultralytics/datasets/images/train
+val: C:/Users/Admin/Desktop/ultralytics/datasets/images/val
+nc: 6  # 
+names: ['Cardboard', 'Glass', 'Metal', 'Plastic', 'Trash', 'Paper']
+labels: 
+  train: C:/Users/Admin/Desktop/ultralytics/datasets/labels/train
+  val: C:/Users/Admin/Desktop/ultralytics/datasets/labels/val
